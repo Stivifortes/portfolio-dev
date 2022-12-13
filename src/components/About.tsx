@@ -26,7 +26,7 @@ export default function About({onRefChange, executeScroll}: Props) {
         </div> */}
         <div className=''>
           <p className='max-md:text-center max-md:p-4'>
-          Experienced Software Developer with expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. With more than 2 years' experience developing a wide range of tools for Web and Mobile. Proficient in various platforms like Micosoft (Certified Microsoft Teams Application Developer), and programming languages not limited to Java, Kotlin, JavaScript, SQL, NodeJs, C#.
+          Experienced Software Developer with expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. With more than 2 years' experience developing a wide range of tools for Web and Mobile. Proficient in various platforms like Microsoft (Certified Microsoft Teams Application Developer), and programming languages not limited to Java, Kotlin, JavaScript, SQL, NodeJs, C#.
           </p>
             <div className='flex justify-around mt-16 max-sm:flex-wrap max-sm:justify-center max-sm:items-center gap-4 my-8'>
               <div className='inline-block max-sm:my-2 bg-secondary-gray p-4 rounded-lg'>
