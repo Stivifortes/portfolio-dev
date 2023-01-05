@@ -10,7 +10,7 @@ export default function PortfolioItem({imgUrl, link, stack, title}: Project) {
   return <a 
   href={link != null ? link : undefined}
   target='"_blank"' 
-  className="border-2 rounded-md border-primary-orange overflow-hidden">
+  className="border-2 rounded-md border-primary-orange overflow-hidden hover:scale-105 duration-300 gap-2">
     <img 
     src={imgUrl} 
     className='w-full h-36 md:h-48 object-cover cursor-pointer' 

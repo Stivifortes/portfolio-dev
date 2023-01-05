@@ -1,5 +1,11 @@
 export default [
   {
+    tittle: 'Food WebApp',
+    imgUrl: 'public/static/food-app.png',
+    stack: ['ReactJS', 'Tailwind CSS', 'JavaScript'],
+    link: 'https://responsive-layout-tailwind-css.vercel.app/'
+  },
+  {
     tittle: 'AI Face Mask detection',
     imgUrl: '/static/mask-detection.png',
     stack: ['Python', 'Keras', 'CNN'],
