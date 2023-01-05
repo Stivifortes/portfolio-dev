@@ -1,7 +1,7 @@
 export default [
   {
     tittle: 'Food WebApp',
-    imgUrl: 'public/static/food-app.png',
+    imgUrl: 'https://user-images.githubusercontent.com/48479009/210794671-912c8972-047f-4cdd-9464-9a96bbe94302.png',
     stack: ['ReactJS', 'Tailwind CSS', 'JavaScript'],
     link: 'https://responsive-layout-tailwind-css.vercel.app/'
   },
